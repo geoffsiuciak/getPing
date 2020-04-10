@@ -1,7 +1,6 @@
 # getPing
 Python GUI app using speedtest-cli API
 
-![graph](https://github.com/geoff-siuciak/getPing/blob/master/images/graph.PNG?raw=true)
 ![complete](https://github.com/geoff-siuciak/getPing/blob/master/images/home.PNG?raw=true)
 ![home](https://github.com/geoff-siuciak/getPing/blob/master/images/complete.PNG?raw=true)
 
@@ -11,3 +10,4 @@ Python GUI app using speedtest-cli API
 - log and read using pandas
 - graph ping, upload, and download results
 - works, could use some reorganizing
+
