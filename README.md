@@ -7,9 +7,8 @@ Python GUI app using speedtest-cli API
 
 # notes
 - speedtest-cli: "it is not a goal of this application to be a reliable latency reporting tool," good enough for learning purposes
-- tkinter gui
+- tkinter gui, log and read using pandas
 - select test durations of 2-60 mins
-- log and read using pandas
 - progress bar incrimented after each test loop based on reference to remaining time
 
 # to-do
