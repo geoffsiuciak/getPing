@@ -8,4 +8,5 @@ Python GUI app using speedtest-cli API
 - speedtest-cli: "it is not a goal of this application to be a reliable latency reporting tool." but good enough for my learning purposes
 - select test durations of 2-60 mins
 - log and read using pandas
-- graph results
+- graph ping, upload, and download results
+- works, could use some reorganizing
