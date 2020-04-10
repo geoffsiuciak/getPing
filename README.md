@@ -5,5 +5,7 @@ Python GUI app using speedtest-cli API
 ![home](https://github.com/geoff-siuciak/getPing/blob/master/images/complete.PNG?raw=true)
 
 # notes
-speedtest-cli: "it is not a goal of this application to be a reliable latency reporting tool." but good enough for my learning purposes
-
+- speedtest-cli: "it is not a goal of this application to be a reliable latency reporting tool." but good enough for my learning purposes
+- select test durations of 2-60 mins
+- log and read using pandas
+- graph results
