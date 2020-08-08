@@ -12,4 +12,4 @@ Python GUI app using speedtest-cli API
 
 # to-do
 - improve organization
-- add save log to csv option
+- add save log to csv/excel option
